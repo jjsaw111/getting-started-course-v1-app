@@ -1,5 +1,5 @@
 export default {
-	init () {
+	init : () => {
 		data.todos = data.dummyTodos;
 	},
 }
